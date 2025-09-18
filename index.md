@@ -74,3 +74,10 @@ layout: default
 
 　　最后啰嗦一句：抵达后，先连机场免费Wi-Fi给家人报个平安，然后不慌不忙地去办卡。阿塞拜疆的通信网络整体很可靠，让它成为你探索这个火之国的忠实伙伴吧。
 　　<<<END_ARTICLE
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Azerbaijan eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/azerbaijan-data-plans)
